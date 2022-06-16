@@ -1,4 +1,4 @@
-const APP_PREFIT = 'BudgetTracker-';
+const APP_PREFIX = 'BudgetTracker-';
 
 const VERSION ='version_01';
 
