@@ -1,7 +1,7 @@
 # Budget-Tracker
 
 ## Purpose
-
+The purpose of this application is to keep track of a budget. The user will be able to use this application when offline and then when they gain internet connection back, the budget information that the user inputted while offline will be updated in the application. The user will be able to add a name for their transaction and the amount and then choose if this transaction will add or subtract funds. The application will keep a log of the transactions and update the graph accordingly.
 
 ## Built With
 * mongoose
